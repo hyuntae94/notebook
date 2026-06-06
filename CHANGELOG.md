@@ -6,6 +6,7 @@
 ## 2026-06-06
 
 ### Added
+- gitlog 테스트 (`67b8baf`)
 - 프로젝트 최초 커밋 — FastAPI items CRUD 서비스 베이스라인 (`433d265`)
 
 ### Docs
