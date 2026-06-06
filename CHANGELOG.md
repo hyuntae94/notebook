@@ -7,3 +7,6 @@
 
 ### Added
 - 프로젝트 최초 커밋 — FastAPI items CRUD 서비스 베이스라인 (`433d265`)
+
+### Docs
+- 마크다운 문서 생성 — PLAN_SPEC.md, HANDOFF.md, CHANGELOG.md 및 `/changelog` 커맨드 (`446596e`)
